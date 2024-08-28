@@ -10,4 +10,4 @@ Projects I worked on while attending the Business Intelligence Analysis TripleTe
 | 4 |	[Data Visualization with Tableau Project](https://public.tableau.com/app/profile/sarah.blankson.stiles.ocran/viz/SARAHBLANKSON-STILES-OCRANTABLEAUPROJECT-SUPERSTORES) | The task was to review the superstore’s operations and increase its profitability to avoid bankruptcy. |
 | 5	| [Storytelling with Data Project](https://public.tableau.com/app/profile/sarah.blankson.stiles.ocran/viz/SARAHBLANKSON-STILES-OCRANSPRINT5PROJECT/ReturnsPresentation) | [https://www.loom.com/share/136d70c147764001bcb09441693ff185] |The task was to prepare an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
 | 6 | [Power BI Project](https://app.powerbi.com/groups/me/reports/f8eeb17b-19b3-4c49-b9fa-d60a7b0160d7/0c803d886002b00d3e57?experience=power-bi&clientSideAuth=0) | The task was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. |
-		
+| 7 | [https://www.loom.com/share/136d70c147764001bcb09441693ff185] | 		
